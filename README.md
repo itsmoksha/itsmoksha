@@ -59,8 +59,8 @@
 <img src="https://img.shields.io/badge/●%20●%20●-stats.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="35%" />
 </p>
 
 <p align="center">
