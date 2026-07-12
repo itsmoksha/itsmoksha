@@ -51,7 +51,11 @@
 <img src="https://img.shields.io/badge/●%20●%20●-contributions.gif-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/itsmoksha/itsmoksha/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmoksha/itsmoksha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmoksha/itsmoksha/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itsmoksha/itsmoksha/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 <br/>
@@ -59,21 +63,30 @@
 <img src="https://img.shields.io/badge/●%20●%20●-stats.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <table align="center">
-<tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" /></td>
-<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoksha&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="80%" /></td>
-</tr>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" height="195" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoksha&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="195" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" height="165" />
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmoksha&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true&area_color=002200" width="100%" />
+</p>
 
 <br/>
 
 <img src="https://img.shields.io/badge/●%20●%20●-trophies.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsmoksha&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=7" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=itsmoksha&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=7" />
 </p>
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+
