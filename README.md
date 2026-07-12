@@ -58,13 +58,22 @@
 
 <img src="https://img.shields.io/badge/●%20●%20●-stats.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="35%" />
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmoksha&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoksha&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="80%" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/●%20●%20●-trophies.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoksha&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsmoksha&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=7" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
