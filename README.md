@@ -1,64 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3E+Valasapalli+Moksha;>+web+dev+%7C+cybersecurity+%7C+AI-ML;>+building+things+that+break+things" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Valasapalli%20Moksha&fontColor=39FF14&fontSize=38&animation=twinkling&fontAlignY=42" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=web+dev+%7C+cybersecurity+%7C+AI-ML;focused+on+AI+security;learning+by+building%2C+not+reading" alt="Typing SVG" />
 
 </div>
 
-<div align="center">
+<br/>
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ cat about.txt
-```
+<img src="https://img.shields.io/badge/●%20●%20●-about.txt-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
-</div>
+- CS engineering student, building across **web dev** and **generative AI**
+- Growing focus on **AI security** — learning offensive security fundamentals specifically to understand how those attacks apply to AI systems, not just traditional infra
+- Prefer shipping small, real things over sitting through theory first
 
-CS engineering student building across web dev and generative AI, with a growing focus on **AI security** — learning offensive security fundamentals specifically to understand how those attacks apply to AI systems, not just traditional infra.
+<br/>
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ ls built/
-```
+<img src="https://img.shields.io/badge/●%20●%20●-built/-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
--**AI chatbot for a local community site** — Flask backend calling the Gemini API, with a system prompt grounding replies in local event/job data. HTML/CSS/JS frontend talking to it over a REST endpoint.
+- **AI chatbot for a local community site** — Flask backend calling the Gemini API, with a system prompt grounding replies in local event/job data. HTML/CSS/JS frontend talking to it over a REST endpoint.
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ cat currently_learning.txt
-```
+<br/>
 
--  Cybersecurity basics via TryHackMe
--  Docker & Kubernetes — picking up as part of a current internship
--  MERN stack — React, Express, MongoDB, Node
+<img src="https://img.shields.io/badge/●%20●%20●-currently_learning.txt-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ ls tools/
-```
+- Cybersecurity basics via TryHackMe
+- Docker & Kubernetes — as part of a current internship
+- MERN stack — React, Express, MongoDB, Node
+
+<br/>
+
+<img src="https://img.shields.io/badge/●%20●%20●-tools/-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="left">
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14&labelColor=000000" />
-<br/>
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14&labelColor=000000" />
-<br/>
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=39FF14&labelColor=000000" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nodejs,express,mongodb,flask,docker,kubernetes,linux,figma&theme=dark" />
 </p>
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ cat contact.txt
-```
+<br/>
+
+<img src="https://img.shields.io/badge/●%20●%20●-contact.txt-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="left">
 <a href="mailto:mokshav872179@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" /></a>
@@ -66,10 +46,17 @@ CS engineering student building across web dev and generative AI, with a growing
 <a href="https://leetcode.com/u/u1nkAeZWQV"><img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=000000" /></a>
 </p>
 
-```
-┌─[moksha@github]─[~]
-└──╼ $ ./stats.sh
-```
+<br/>
+
+<img src="https://img.shields.io/badge/●%20●%20●-contributions.gif-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsmoksha/itsmoksha/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/●%20●%20●-stats.sh-1a1a1a?style=flat-square&labelColor=000000&color=000000" />
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmoksha&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
@@ -80,11 +67,4 @@ CS engineering student building across web dev and generative AI, with a growing
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoksha&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
 </p>
 
-<div align="center">
-
-```
-┌─[moksha@github]─[~]
-└──╼ $ exit
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
